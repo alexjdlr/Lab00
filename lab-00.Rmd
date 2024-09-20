@@ -1,7 +1,6 @@
 ---
 title: "Lab 00 - Hello IDS!"
-author: "INSERT YOUR NAME HERE"
-date: "`r Sys.Date()`"
+author: "Alex"
 output: html_document
 ---
 
