@@ -68,4 +68,4 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
 p2
 ```
 
-*Remove this text (including the stars) and add your answer for Exercise 20 here.*
+Since there are endless answers which are not quantifiable for this question, the data range would be too large to represent tidily with this graph. Maybe using a pie chart would allow us to show the proportion of choices among the study group.
